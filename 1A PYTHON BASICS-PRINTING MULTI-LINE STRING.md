@@ -30,6 +30,7 @@ print(string_double_quotes)
 ```
 ## OUTPUT
 
+<img width="1145" height="432" alt="image" src="https://github.com/user-attachments/assets/53433fa6-576e-4507-b0ec-f264fc04a237" />
 
 ## RESULT
 The program prints a multiline string using both triple single(''') and triple double(""") quotes.
