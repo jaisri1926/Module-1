@@ -32,4 +32,4 @@ print(string_double_quotes)
 
 
 ## RESULT
-
+The program prints a multiline string using both triple single(''') and triple double(""") quotes.
